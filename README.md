@@ -4,8 +4,6 @@
 
 This a multi-plaayer game. But due to lack of budget I am not able to make it online multi-player. So users have to play it on a single device.
 
-source code revealing soon...
-
 ## Features
 
 <ul>
