@@ -1,0 +1,113 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "Deps": [
+        1
+      ],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "Il2Cpp C:/Users/Soumavo Dey/Documents/UnityProjects/Ludo/Library/Il2cppBuildCache/Android/armeabi-v7a/Native/armeabi-v7a/libil2cpp.so",
+      "Action": "\"D:\\Unity\\Unity Hub\\Editor\\2020.3.13f1\\Editor\\Data\\il2cpp/build/deploy/netcoreapp3.1/il2cpp.exe\" --convert-to-cpp --emit-null-checks --enable-array-bounds-check --dotnetprofile=\"unityaot\" --compile-cpp --libil2cpp-static --platform=\"Android\" --architecture=\"ARMv7\" --configuration=\"Release\" --outputpath=\"C:\\Users\\Soumavo Dey\\Documents\\UnityProjects\\Ludo\\Library\\Il2cppBuildCache\\Android\\armeabi-v7a\\Native\\armeabi-v7a\\libil2cpp.so\" --cachedirectory=\"C:\\Users\\Soumavo Dey\\Documents\\UnityProjects\\Ludo\\Assets\\..\\Library\\il2cpp_android_armeabi-v7a/il2cpp_cache\" --additional-include-directories=\"D:/Unity/Unity Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools\\bdwgc/include\" --additional-include-directories=\"D:/Unity/Unity Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools\\libil2cpp/include\" --baselib-directory=\"D:/Unity/Unity Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/AndroidPlayer\\Variations\\il2cpp\\Release\\StaticLibs\\armeabi-v7a\" --avoid-dynamic-library-copy --tool-chain-path=\"D:/Unity/Unity Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK\" --incremental-g-c-time-slice=3 --profiler-report --map-file-parser=\"D:/Unity/Unity Hub/Editor/2020.3.13f1/Editor/Data/Tools/MapFileParser/MapFileParser.exe\" --directory=\"C:/Users/Soumavo Dey/Documents/UnityProjects/Ludo/Temp/StagingArea/assets/bin/Data/Managed\" --generatedcppdir=\"C:/Users/Soumavo Dey/Documents/UnityProjects/Ludo/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput\"",
+      "Inputs": [
+        "C:/Users/Soumavo Dey/Documents/UnityProjects/Ludo/Temp/StagingArea/assets/bin/Data/Managed",
+        "C:/Users/Soumavo Dey/Documents/UnityProjects/Ludo/Temp/StagingArea/assets/bin/Data/Managed/Assembly-CSharp-firstpass.dll",
+        "C:/Users/Soumavo Dey/Documents/UnityProjects/Ludo/Temp/StagingArea/assets/bin/Data/Managed/Assembly-CSharp.dll",
+        "C:/Users/Soumavo Dey/Documents/UnityProjects/Ludo/Temp/StagingArea/assets/bin/Data/Managed/Mono.Security.dll",
+        "C:/Users/Soumavo Dey/Documents/UnityProjects/Ludo/Temp/StagingArea/assets/bin/Data/Managed/mscorlib.dll",
+        "C:/Users/Soumavo Dey/Documents/UnityProjects/Ludo/Temp/StagingArea/assets/bin/Data/Managed/System.Configuration.dll",
+        "C:/Users/Soumavo Dey/Documents/UnityProjects/Ludo/Temp/StagingArea/assets/bin/Data/Managed/System.Core.dll",
+        "C:/Users/Soumavo Dey/Documents/UnityProjects/Ludo/Temp/StagingArea/assets/bin/Data/Managed/System.dll",
+        "C:/Users/Soumavo Dey/Documents/UnityProjects/Ludo/Temp/StagingArea/assets/bin/Data/Managed/System.Xml.dll",
+        "C:/Users/Soumavo Dey/Documents/UnityProjects/Ludo/Temp/StagingArea/assets/bin/Data/Managed/Unity.2D.IK.Runtime.dll",
+        "C:/Users/Soumavo Dey/Documents/UnityProjects/Ludo/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AndroidJNIModule.dll",
+        "C:/Users/Soumavo Dey/Documents/UnityProjects/Ludo/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AnimationModule.dll",
+        "C:/Users/Soumavo Dey/Documents/UnityProjects/Ludo/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AudioModule.dll",
+        "C:/Users/Soumavo Dey/Documents/UnityProjects/Ludo/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.CoreModule.dll",
+        "C:/Users/Soumavo Dey/Documents/UnityProjects/Ludo/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.dll",
+        "C:/Users/Soumavo Dey/Documents/UnityProjects/Ludo/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.GridModule.dll",
+        "C:/Users/Soumavo Dey/Documents/UnityProjects/Ludo/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.IMGUIModule.dll",
+        "C:/Users/Soumavo Dey/Documents/UnityProjects/Ludo/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "C:/Users/Soumavo Dey/Documents/UnityProjects/Ludo/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.Physics2DModule.dll",
+        "C:/Users/Soumavo Dey/Documents/UnityProjects/Ludo/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.PhysicsModule.dll",
+        "C:/Users/Soumavo Dey/Documents/UnityProjects/Ludo/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "C:/Users/Soumavo Dey/Documents/UnityProjects/Ludo/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+        "C:/Users/Soumavo Dey/Documents/UnityProjects/Ludo/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TextRenderingModule.dll",
+        "C:/Users/Soumavo Dey/Documents/UnityProjects/Ludo/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TilemapModule.dll",
+        "C:/Users/Soumavo Dey/Documents/UnityProjects/Ludo/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UI.dll",
+        "C:/Users/Soumavo Dey/Documents/UnityProjects/Ludo/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UIModule.dll",
+        "C:/Users/Soumavo Dey/Documents/UnityProjects/Ludo/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+        "C:/Users/Soumavo Dey/Documents/UnityProjects/Ludo/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UnityWebRequestModule.dll"
+      ],
+      "Outputs": [
+        "C:/Users/Soumavo Dey/Documents/UnityProjects/Ludo/Library/Il2cppBuildCache/Android/armeabi-v7a/Native/armeabi-v7a/libil2cpp.so"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "Deps": [],
+      "OverwriteOutputs": false,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 1
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "../../../../Temp/StagingArea/assets/bin/Data/Managed"
+    },
+    {
+      "File": "artifacts/buildprogram/tundra_buildprogram.dag.json"
+    },
+    {
+      "File": "il2cpp_settings.json"
+    },
+    {
+      "File": "unitylinker_settings.json"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "../../../../Temp/StagingArea/assets/bin/Data/Managed"
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".txt",
+    ".c",
+    ".cpp",
+    ".h",
+    ".cs",
+    ".hpp"
+  ],
+  "StructuredLogFileName": "artifacts/tundra.log.json",
+  "StateFileName": "artifacts/TundraBuildState.state",
+  "StateFileNameTmp": "artifacts/TundraBuildState.state.tmp",
+  "ScanCacheFileName": "artifacts/tundra.scancache",
+  "ScanCacheFileNameTmp": "artifacts/tundra.scancache.tmp",
+  "DigestCacheFileName": "artifacts/tundra.digestcache",
+  "DigestCacheFileNameTmp": "artifacts/tundra.digestcache.tmp",
+        "NamedNodes": {
+          "all_tundra_nodes": 0
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "artifacts/tundra.dag.json",
+  "BuildTitle": "Bee",
+  "RelativePathToRoot": ".."
+}
