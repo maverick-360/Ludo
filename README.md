@@ -24,8 +24,8 @@ This a multi-plaayer game. But due to lack of budget I am not able to make it on
 
 <ul>
   <li>Adding app icon</li>
-  <li>Adding User Authentication and Authorization</li>
   <li>Adding Online Muti-player feature</li>
+  <li>Adding User Authentication and Authorization</li>
   <li>Adding Points for every player</li>
   <li>Adding Cross Platform support</li>
   <li>Updating the game UI</li>
